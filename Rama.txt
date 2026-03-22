@@ -1,1 +1,3 @@
-"Modificaci¢n en master" 
+"Modificacion en master" 
+"Fichero para gestionar las ramas" 
+"Cambio en la nueva rama" 
